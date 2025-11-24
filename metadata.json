@@ -1,0 +1,7 @@
+{
+  "name": "LinguistAI - Immersive Language Tutor",
+  "description": "A real-time AI language partner. Practice conversations, visualize vocabulary with video, explore cultural contexts with search, and build visual scenarios.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
